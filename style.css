@@ -3,11 +3,11 @@ body{
   margin: 0;
 }
 h1{
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .nur-alam-color{
-  color: tomato;
+  color: tomato
 }
 .section-flex{
   display: flex;
@@ -42,4 +42,31 @@ h1{
   text-align: justify;
   margin-right: 20px;
 }
+.experience-section{
+  background-image: url(developer-portfolio-master/images/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+.full-stack-web{
+  width: 50%;
+  padding: 20px;
+  margin-left: 2%;
+  margin-right: 2%;
+  border-radius: 10px;
+  box-shadow: 10px 10px 30px gray;
+  
+}
+#babey-dev{
+  border-left: 5px solid blue
+}
 
+#web-dev{
+  border-left: 5px solid tomato
+}
+
+.full-stack-web p{
+  text-align: justify;
+}
+footer p{
+  text-align: center;
+}
