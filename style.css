@@ -1,3 +1,28 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+h1{
+  font-size: 50px;
+}
+
+.nur-alam-color{
+  color: tomato;
+}
 section{
   display: flex;
+}
+.half-with-site{
+  width: 50%;
+  padding-left: 2%;
+}
+.half-with-site img{
+  width: 80%;
+}
+.hire-me{
+  text-decoration: none;
+  background-image: linear-gradient(orange,tomato);
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: white;
+  
 }
