@@ -9,7 +9,7 @@ h1{
 .nur-alam-color{
   color: tomato;
 }
-section{
+.section-flex{
   display: flex;
   margin-bottom: 150px;
 }
@@ -38,3 +38,8 @@ section{
   background-repeat: no-repeat
   
 }
+.half-with-site p{
+  text-align: justify;
+  margin-right: 20px;
+}
+
