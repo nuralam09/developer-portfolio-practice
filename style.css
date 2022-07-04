@@ -11,6 +11,7 @@ h1{
 }
 section{
   display: flex;
+  margin-bottom: 150px;
 }
 .half-with-site{
   width: 50%;
@@ -30,4 +31,10 @@ section{
 .top-bg-imgage{
   background-image: url(developer-portfolio-master/images/top-banner.png);
   background-repeat: no-repeat;
+}
+.big-dream{
+  background-position: right;
+  background-image: url(developer-portfolio-master/images/dream-bg.png);
+  background-repeat: no-repeat
+  
 }
